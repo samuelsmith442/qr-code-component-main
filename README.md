@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/qrcodecomponenttailwindcss-sheDVOQSzU
+- Solution URL: https://www.frontendmentor.io/solutions/stats-preview-card-component-pbUWWLaNO7
 - Live Site URL: https://famous-tulumba-a2ba11.netlify.app/
 
 ## My process
