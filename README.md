@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/qrcodecomponenttailwindcss-sheDVOQSzU
-- Live Site URL: https://tourmaline-sundae-41882c.netlify.app/
+- Live Site URL: https://famous-tulumba-a2ba11.netlify.app/
 
 ## My process
 
